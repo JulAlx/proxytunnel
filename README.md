@@ -1,5 +1,6 @@
-# proxytunnel v1.99
+# proxytunnel on OpenWRT
 
 <b>proxytunnel on OpenWRT</b>
 
-Compiles as easy as 1 2 3!
+Compiles as easy as 1, 2, 3!
+
