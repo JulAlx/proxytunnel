@@ -1,6 +1,6 @@
-# proxytunnel on OpenWRT
+# proxytunnel for OpenWRT
 
-<b>proxytunnel on OpenWRT</b>
+<b>proxytunnel for OpenWRT</b>
 
 Compiles as easy as 1, 2, 3!
 
