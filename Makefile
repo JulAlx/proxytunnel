@@ -35,7 +35,7 @@ to an origin server somewhere in the Internet through an industry \
 standard HTTPS proxy. I originally wrote this program to be used \
 as an extension to SSH, to be able to SSH to my box at home. In \
 this file, I will describe the use with SSH. If you want to use it \
-with some other application, feel free, and let me know! \
+with some other application, feel free, and let me know!
 endef
 
 define Package/proxytunnel/conffiles
