@@ -26,7 +26,7 @@ define Package/proxytunnel
 	CATEGORY:=Network
 	TITLE:=HTTPS proxy client
 	URL:=https://github.com/proxytunnel/proxytunnel.git
-	DEPENDS:=+libevent2 +libopenssl +cryptodev-linux
+	DEPENDS:=+libevent2 +libopenssl
 endef
 
 define Package/proxytunnel/description
